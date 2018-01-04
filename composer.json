@@ -1,0 +1,12 @@
+{
+    "name": "dimitardinchev/league-csv-bug",
+    "require": {
+        "league/csv": "^9.1"
+    },
+    "authors": [
+        {
+            "name": "Dimitar Dinchev",
+            "email": "dinchev.dimitar@gmail.com"
+        }
+    ]
+}
